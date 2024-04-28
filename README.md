@@ -53,4 +53,10 @@
         </div>
     </div>
 </body>
+  <ul>
+            <li><a href="https://kenzie-nice.github.io/Losingtrack_of_theseSites.io/">Home Page</a></li>
+            <li><a href="https://kenzie-nice.github.io/Contactpage.io/">Any Questions, comments, or concerns? Contact Us!</a></li>
+            <li><a href="https://kenzie-nice.github.io/About_us.io/">Interested in our origin? About Us!</a></li>
+               <li><a href="https://kenzie-nice.github.io/Gallery.io/">Photo Gallery!</a></li>
+        </ul>
 </html>
