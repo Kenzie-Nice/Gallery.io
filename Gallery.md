@@ -9,18 +9,18 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-image: url(''); /* Replace 'background.jpg' with your image file */
+            background-image: url('2690293634_8557a484b1_b.jpg'); 
             background-size: cover;
             background-position: center;
-            color: white; /* Change text color if necessary */
+            color: white;
         }
         .container {
             width: 90%;
             margin: 50px auto;
             padding: 20px;
-            background-color: rgba(0, 0, 0, 0.5); /* Adjust transparency as needed */
+            background-color: rgba(0, 0, 0, 0.5); 
             border-radius: 10px;
-            box-shadow: 0 0 20px rgba(255, 255, 255, 0.3); /* Add shadow effect */
+            box-shadow: 0 0 20px rgba(255, 255, 255, 0.3); 
             position: relative;
             overflow: hidden;
         }
@@ -35,9 +35,9 @@
             margin-top: 20px;
         }
         .gallery img {
-            width: 200px; /* Adjust image size as needed */
-            margin: 10px; /* Adjust margin between images */
-            border-radius: 5px; /* Add rounded corners to images */
+            width: 200px;
+            margin: 10px; 
+            border-radius: 5px; 
         }
     </style>
 </head>
@@ -46,11 +46,11 @@
         <h1>Photo Gallery</h1>
         <div class="gallery">
             <!-- Replace 'image1.jpg', 'image2.jpg', 'image3.jpg', and 'image4.jpg' with your image file names -->
-            <img src="image1.jpg" alt="Image 1">
-            <img src="image2.jpg" alt="Image 2">
-            <img src="image3.jpg" alt="Image 3">
-            <img src="image4.jpg" alt="Image 4">
-            <!-- Add more image tags for additional images -->
+            <img src="image1.jpg" alt="Green_tea_Kukicha.jpg">
+            <img src="image2.jpg" alt="Twinings_gunpowder_green_tea.jpg">
+            <img src="image3.jpg" alt="preview16 (1).jpg">
+            <img src="image4.jpg" alt="tea-candy-green-tea-black-tea.jpg">
+    
         </div>
     </div>
 </body>
