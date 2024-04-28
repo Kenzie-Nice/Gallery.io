@@ -45,11 +45,10 @@
     <div class="container">
         <h1>Photo Gallery</h1>
         <div class="gallery">
-            <!-- Replace 'image1.jpg', 'image2.jpg', 'image3.jpg', and 'image4.jpg' with your image file names -->
-            <img src="image1.jpg" alt="Green_tea_Kukicha.jpg">
-            <img src="image2.jpg" alt="Twinings_gunpowder_green_tea.jpg">
-            <img src="image3.jpg" alt="preview16 (1).jpg">
-            <img src="image4.jpg" alt="tea-candy-green-tea-black-tea.jpg">
+            <img src="Green_tea_Kukicha.jpg" alt="Green_tea_Kukicha.jpg">
+            <img src="Twinings_gunpowder_green_tea.jpg" alt="Twinings_gunpowder_green_tea.jpg">
+            <img src="preview16 (1).jpg" alt="preview16 (1).jpg">
+            <img src="tea-candy-green-tea-black-tea.jpg" alt="tea-candy-green-tea-black-tea.jpg">
     
         </div>
     </div>
